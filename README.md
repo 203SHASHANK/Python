@@ -1,2 +1,2 @@
 # Python
-Python Codes Which I Practised
+Python Codes 
